@@ -1,13 +1,13 @@
-#Task:
+# Task:
 Design and implement a simple task management system web service.
 
-###The web service should be able to:
+### The web service should be able to:
 - Add a new task
 - Retrieve a task by its ID
 - Update a task
 - Delete a task
 
-###Detailed Requirements
+### Detailed Requirements
 - Each task should have an ID, title, description, status (completed/not completed), and timestamp.
 - Python 3.10 and Django/Flask
 - RESTful APIbased application
@@ -15,7 +15,7 @@ Design and implement a simple task management system web service.
 - Unit tests for one APIs
 
 
-###Deliverables
+### Deliverables
 - How to use the APIs (a simple API documentation)
 - Instructions on how to build and run the web service, and run the tests (if any).
 - Link to the git repository
@@ -112,7 +112,7 @@ For application tests run the command:
 `python manage.py test -v 2`
 
 
-###Additional Questions Answers:
+### Additional Questions Answers:
 
 **Q1.** How would you use a CI/CD pipeline to automate the deployment process?
    <br>
